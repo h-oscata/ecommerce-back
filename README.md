@@ -1,4 +1,4 @@
-# Plataforma de Comercio Electrónico
+# Plataforma de Comercio Electrónico Backend
 
 Este proyecto es una **plataforma de comercio electrónico** que permite a los usuarios buscar, comprar y vender productos a traves de la coordinacion entre vendedor y comprador mediante mensaje de texto. Los usuarios pueden buscar productos, filtrar por categorias (tecnología, moda, hogar, etc.), establecer comunicacion via chat de texto y gestionar su perfil de usuario.
 
@@ -18,27 +18,6 @@ Este proyecto es una **plataforma de comercio electrónico** que permite a los u
 - **Spring Boot + Dependencias**
 - **MySQL**
 
-### Frontend
-
-- **JavaScript**
-- **React.js**
-- **Fetch**
-- **Bootstrap**
-
-### Docker
-- Para lanzar todos los servicios en distintos contenedores
-_______________________________________________________________________
-
-## Configuracion para correr el proyecto
-
-### Frontend
-- Necesario tener instalado NODE.JS
-- Abrir la carpeta de front-react con Visual Studio
-- En la consola poner: npm install
-- En la consola poner: npm run dev
-- Mediante un navegador web ingresar a la direccion que se mostrara
-
-_______________________________________________________________________
 
 ## Integrantes:
 - Oscata Flores, Luis Humberto - h-oscata
