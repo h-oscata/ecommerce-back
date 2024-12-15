@@ -18,10 +18,9 @@ Este proyecto es una **plataforma de comercio electrónico** que permite a los u
 - **Spring Boot + Dependencias**
 - **MySQL**
 
+### Frontend
 
-## Integrantes:
-- Oscata Flores, Luis Humberto - h-oscata
-- Soncco Calla, Diego Elberto - deDiegoSC
-- Alvarado Arenas, Angel Gabriel - angelalva10
-- Molloco Quispe, Deyvi Benito - deyviM1230
-- Cayllahua Camacho, Matias Renato - Polmat100
+- **JavaScript**
+- **React.js**
+- **Fetch**
+- **Bootstrap**
